@@ -1,0 +1,34 @@
+[
+  {
+    "rideType": "Moto",
+    "imageUrl": "./images/ubermoto.webp",
+    "timeLeft": "5 mins away",
+    "randomTime": "12:54 PM",
+    "specialMessage": "Affordable moto rides!",
+    "price": 150
+  },
+  {
+    "rideType": "Auto",
+    "imageUrl": "./images/uberauto.webp",
+    "timeLeft": "7 mins away",
+    "randomTime": "12:58 PM",
+    "specialMessage": "Fast and affordable auto rides.",
+    "price": 250
+  },
+  {
+    "rideType": "Uber Go",
+    "imageUrl": "./images/ubergo.jpg",
+    "timeLeft": "3 mins away",
+    "randomTime": "12:50 PM",
+    "specialMessage": "Ride in style with Uber Go.",
+    "price": 350
+  },
+  {
+    "rideType": "Premier",
+    "imageUrl": "./images/uberblack.webp",
+    "timeLeft": "10 mins away",
+    "randomTime": "1:00 PM",
+    "specialMessage": "Luxury ride with Premier.",
+    "price": 500
+  }
+]
